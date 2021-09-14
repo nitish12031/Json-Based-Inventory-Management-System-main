@@ -22,7 +22,7 @@ This repository is having all the codes used in Json based "Inventory Management
 
 
 ### Who am I?
-My name is Nitish Kumar and I'm a B.tech(C.S.E.) final year student and Blogger. I'm well-versed in web development and having interest in Python/ML. I'm passionate about writing and learning new technologies.
+My name is Nitish Kumar and I'm a B.tech(C.S.E.) final year student. I'm well-versed in web development and having interest in Python/ML. I'm passionate about writing and learning new technologies.
 
 ### Other Useful Links:
 LinkedIn:- https://www.linkedin.com/in/nitish-kumar-700b98214/
